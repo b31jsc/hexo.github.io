@@ -1,7 +1,7 @@
 ---
 title: UltraISO制作U盘启动盘
 date: 2018-06-08 15:11:08
-tags:
+tags: [从零折腾Ubuntu]
 ---
 #### 0. 准备工作
 1. U盘一个  16G

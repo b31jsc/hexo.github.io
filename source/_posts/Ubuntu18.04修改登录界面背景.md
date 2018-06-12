@@ -1,7 +1,7 @@
 ---
 title: Ubuntu18.04修改登录界面背景
 date: 2018-06-11 16:12:00
-tags:
+tags: [从零折腾Ubuntu]
 ---
 0. Ubuntu通过 **设置** 只能修改锁屏界面和桌面背景，无法修改登录界面的紫色背景。
 ![before](https://raw.githubusercontent.com/b31jsc/img/master/Ubuntu18.04%E4%BF%AE%E6%94%B9%E7%99%BB%E5%BD%95%E7%95%8C%E9%9D%A2%E8%83%8C%E6%99%AF/Ubuntu18.04%E4%BF%AE%E6%94%B9%E7%99%BB%E5%BD%95%E7%95%8C%E9%9D%A2%E8%83%8C%E6%99%AF1-%E4%BF%AE%E6%94%B9%E5%89%8D.jpg)

@@ -1,7 +1,7 @@
 ---
 title: GitHub Pages + Hexo实现个人博客
 date: 2018-06-08 15:11:12
-tags:
+tags: [从零折腾Ubuntu,Hexo,GitHub,GitHub Pages]
 ---
 ### 0. 准备工作
 * 操作系统: Ubuntu 18.04
