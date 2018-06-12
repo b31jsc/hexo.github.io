@@ -2,6 +2,7 @@
 title: Remarkable的安装说明
 date: 2018-06-08 15:11:09
 tags: [从零折腾Ubuntu,Markdown,Remarkable]
+description: 介绍如何安装Remarkable
 ---
 #### 0. 准备工作
 * 操作系统: Ubuntu 18.04

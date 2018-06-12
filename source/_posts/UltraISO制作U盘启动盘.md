@@ -2,6 +2,7 @@
 title: UltraISO制作U盘启动盘
 date: 2018-06-08 15:11:08
 tags: [从零折腾Ubuntu]
+description: 介绍如何通过软件UltraISO制作U盘启动盘
 ---
 #### 0. 准备工作
 1. U盘一个  16G

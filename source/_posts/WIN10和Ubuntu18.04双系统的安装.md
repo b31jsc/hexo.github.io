@@ -2,6 +2,7 @@
 title: WIN10和Ubuntu18.04双系统的安装
 date: 2018-06-07 15:11:08
 tags: [从零折腾Ubuntu]
+description: 介绍如何安装WIN10和Ubuntu18.04双系统
 ---
 ### 0. 准备工作
 #### 0.1 电脑配置  

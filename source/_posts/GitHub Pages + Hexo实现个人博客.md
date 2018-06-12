@@ -2,6 +2,7 @@
 title: GitHub Pages + Hexo实现个人博客
 date: 2018-06-08 15:11:12
 tags: [从零折腾Ubuntu,Hexo,GitHub,GitHub Pages]
+description: 介绍如何通过GitHub Pages和Hexo搭建个人博客
 ---
 ### 0. 准备工作
 * 操作系统: Ubuntu 18.04

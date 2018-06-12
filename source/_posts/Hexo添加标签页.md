@@ -2,6 +2,7 @@
 title: Hexo添加标签页
 date: 2018-06-12 15:22:08
 tags: [从零折腾Ubuntu,Hexo]
+description: 介绍如何开启Hexo的标签页功能
 ---
 ### 0. 准备工作
 * 操作系统: Ubuntu 18.04
