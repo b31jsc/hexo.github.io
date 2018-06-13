@@ -1,7 +1,7 @@
 ---
 title: GitHub 的注册与使用
 date: 2018-06-08 15:11:11
-tags: [从零折腾Ubuntu,GitHub]
+tags: [从零折腾Ubuntu,Git,GitHub]
 description: 介绍如何注册GitHub
 ---
 #### 0. 准备工作
