@@ -215,7 +215,7 @@ INFO  Hexo is running at http://localhost:4000/. Press Ctrl+C to stop.
 ### 4. 开启 GitHub Pages
 #### 4.1 注册 **GitHub**  
 参考如下教程，完成GitHub的注册和仓库的建立  
-[GitHub 的注册与使用](https://github.com/b31jsc/Documents/blob/master/GitHub%E7%9A%84%E6%B3%A8%E5%86%8C%E4%B8%8E%E4%BD%BF%E7%94%A8.md#github-%E7%9A%84%E6%B3%A8%E5%86%8C%E4%B8%8E%E4%BD%BF%E7%94%A8)
+[GitHub 的注册与使用](https://b31jsc.github.io/2018/06/08/GitHub%E7%9A%84%E6%B3%A8%E5%86%8C%E4%B8%8E%E4%BD%BF%E7%94%A8/)
 
 #### 4.2 修改仓库类型为 **GitHub Pages**  
 * 在仓库页面点击设置 "**Setting**"

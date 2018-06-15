@@ -121,7 +121,7 @@ MBR转GPT的方法有很多，在网上百度“MBR转GPT”即可。
 ### 2. 安装WIN10
 #### 2.1 制作WIN10启动盘  
 参考如下网页，使用 **UltraISO软碟通** 制作U盘启动盘。  
-[https://github.com/b31jsc/Documents/blob/master/UltraISO%E5%88%B6%E4%BD%9CU%E7%9B%98%E5%90%AF%E5%8A%A8%E7%9B%98.md#ultraiso%E5%88%B6%E4%BD%9Cu%E7%9B%98%E5%90%AF%E5%8A%A8%E7%9B%98](https://github.com/b31jsc/Documents/blob/master/UltraISO%E5%88%B6%E4%BD%9CU%E7%9B%98%E5%90%AF%E5%8A%A8%E7%9B%98.md#ultraiso%E5%88%B6%E4%BD%9Cu%E7%9B%98%E5%90%AF%E5%8A%A8%E7%9B%98)  
+[UltraISO制作U盘启动盘](https://b31jsc.github.io/2018/06/08/UltraISO%E5%88%B6%E4%BD%9CU%E7%9B%98%E5%90%AF%E5%8A%A8%E7%9B%98/)  
 **注意：第二步使用准备好的WIN10镜像！**  
 **注意：如果电脑经历过磁盘格式转换，可能已经无法启动，此时需要另一台电脑协助制作镜像！**
 
@@ -173,7 +173,7 @@ MBR转GPT的方法有很多，在网上百度“MBR转GPT”即可。
 ### 3. 安装Ubuntu
 #### 3.1 制作Ubuntu启动盘  
 参考如下网页，使用 **UltraISO软碟通** 制作U盘启动盘。  
-[https://github.com/b31jsc/Documents/blob/master/UltraISO%E5%88%B6%E4%BD%9CU%E7%9B%98%E5%90%AF%E5%8A%A8%E7%9B%98.md#ultraiso%E5%88%B6%E4%BD%9Cu%E7%9B%98%E5%90%AF%E5%8A%A8%E7%9B%98](https://github.com/b31jsc/Documents/blob/master/UltraISO%E5%88%B6%E4%BD%9CU%E7%9B%98%E5%90%AF%E5%8A%A8%E7%9B%98.md#ultraiso%E5%88%B6%E4%BD%9Cu%E7%9B%98%E5%90%AF%E5%8A%A8%E7%9B%98)  
+[UltraISO制作U盘启动盘](https://b31jsc.github.io/2018/06/08/UltraISO%E5%88%B6%E4%BD%9CU%E7%9B%98%E5%90%AF%E5%8A%A8%E7%9B%98/)  
 **注意：与制作WIN10启动盘类似，第二步使用准备好的Ubuntu镜像！**  
 
 #### 3.2 通过U盘启动
